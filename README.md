@@ -1,3 +1,3 @@
 # calculator
 
-React로 만드는 계산기
+react로 만들어 본 계산기를 vue로 다시 제작
