@@ -1,17 +1,17 @@
 <template>
-  <!-- <Calculator /> -->
   <NewCalculator></NewCalculator>
+  <CalculatePoly></CalculatePoly>
 </template>
 
 <script>
-// import Calculator from "./components/Calculator.vue";
 import NewCalculator from "./components/NewCalculator.vue";
+import CalculatePoly from "./components/CalculatePoly.vue";
 
 export default {
   name: "App",
   components: {
-    // Calculator,
     NewCalculator,
+    CalculatePoly,
   },
 };
 </script>
